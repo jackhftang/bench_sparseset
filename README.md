@@ -1,4 +1,4 @@
-Benchmark is the only criterion for testing truth. 
+Benchmark is the only criterion for finding the truth. 
 
 ## Usage
 
